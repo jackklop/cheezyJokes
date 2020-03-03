@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cheezyjokes/static/css/main.ca662e14.chunk.css",
+    "main.js": "/cheezyjokes/static/js/main.d9fb2459.chunk.js",
+    "main.js.map": "/cheezyjokes/static/js/main.d9fb2459.chunk.js.map",
+    "runtime-main.js": "/cheezyjokes/static/js/runtime-main.c8e2e70f.js",
+    "runtime-main.js.map": "/cheezyjokes/static/js/runtime-main.c8e2e70f.js.map",
+    "static/js/2.42d1fe91.chunk.js": "/cheezyjokes/static/js/2.42d1fe91.chunk.js",
+    "static/js/2.42d1fe91.chunk.js.map": "/cheezyjokes/static/js/2.42d1fe91.chunk.js.map",
+    "index.html": "/cheezyjokes/index.html",
+    "precache-manifest.a4684bf8ac2923672e81a9c8b2eb576d.js": "/cheezyjokes/precache-manifest.a4684bf8ac2923672e81a9c8b2eb576d.js",
+    "service-worker.js": "/cheezyjokes/service-worker.js",
+    "static/css/main.ca662e14.chunk.css.map": "/cheezyjokes/static/css/main.ca662e14.chunk.css.map",
+    "static/js/2.42d1fe91.chunk.js.LICENSE.txt": "/cheezyjokes/static/js/2.42d1fe91.chunk.js.LICENSE.txt",
+    "static/media/cheese.png": "/cheezyjokes/static/media/cheese.9d669038.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8e2e70f.js",
+    "static/js/2.42d1fe91.chunk.js",
+    "static/css/main.ca662e14.chunk.css",
+    "static/js/main.d9fb2459.chunk.js"
+  ]
+}
